@@ -16,4 +16,16 @@ if model1.predict(user) == 0:
 else:
      st.write("you have diabeties")
 
-st.write("This prediction page is for analysis purpose only kindly consult your Doctor")
+
+
+
+
+
+
+
+
+
+
+
+
+st.write("***Disclaimer: This prediction page is for analysis purpose only kindly consult your Doctor***")
